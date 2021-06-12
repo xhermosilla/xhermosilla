@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @xhermosilla
 
 Developer with extensive professional experience in C, C++, Java, JavaScript, Python and Rust technologies.
-
 I am passionate about technology and it makes me get the most out of myself. Addicted to learning and continuous growth.
-
 I currently work as a full stack developer and mainly work with __Typescript, Javascript, NodeJS, React, MongoDB__
     
 <!-- - 👀 I’m interested in ...
